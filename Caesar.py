@@ -1,6 +1,6 @@
 """
 Práctica 1 - Fundamentos de Criptografía
-Script de Cifrado de Sustitución César
+Script del Cifrado de Sustitución César
 Cipher Caesar
 @author: Rafael Contín
 """
